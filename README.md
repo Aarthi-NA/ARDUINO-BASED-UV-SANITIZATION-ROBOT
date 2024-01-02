@@ -31,7 +31,7 @@ The Arduino Based UV Sanitization Robot is designed to sanitize surfaces using u
 
 ## Getting Started
 
-To get started with this project, you will need an Arduino board, UV light source, Uv sensor, IR sensor, Servo Motor and DC motor.
+To get started with this project, you will need an Arduino board, UV light source, Ultrasonic sensor, IR sensor, Servo Motor and DC motor.
 
 ## Prerequisites
 
