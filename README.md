@@ -21,6 +21,14 @@ The Arduino Based UV Sanitization Robot is designed to sanitize surfaces using u
 - Integration of advancements in robotics and artificial intelligence for more sophisticated and efficient UV sanitization robots
 - Potential applications in commercial spaces, restaurants, and public facilities for contactless disinfection
 
+## Project Result
+
+![image](https://github.com/Aarthi-NA/ARDUINO-BASED-UV-SANITIZATION-ROBOT/assets/136803822/f0253372-a86b-434d-a75b-d80b26b2bad6)
+
+![image](https://github.com/Aarthi-NA/ARDUINO-BASED-UV-SANITIZATION-ROBOT/assets/136803822/07e9b3c8-3af7-4218-be63-80451f482afc)
+
+![image](https://github.com/Aarthi-NA/ARDUINO-BASED-UV-SANITIZATION-ROBOT/assets/136803822/f5872a4e-f9fa-4737-8240-58093b337539)
+
 ## Getting Started
 
 To get started with this project, you will need an Arduino board, UV light source, Uv sensor, IR sensor, Servo Motor and DC motor.
