@@ -1,6 +1,6 @@
 # ARDUINO-BASED-UV-SANITIZATION-ROBOT
 
-This project is a mini project developed by Aarthi NA, Mirthula R, Sihabudheen S, and Sruti P as part of our Bachelor of Engineering degree in Electronics and Communication Engineering at Karpagam College of Engineering. The project was guided by Mr. G. Rajarathinam.
+This project is a project developed by Aarthi NA, Mirthula R, Sihabudheen S, and Sruti P as part of our Bachelor of Engineering degree in Electronics and Communication Engineering at Karpagam College of Engineering. The project was guided by Mr. G. Rajarathinam.
 
 ## Project Description
 
